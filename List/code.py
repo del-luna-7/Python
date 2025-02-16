@@ -73,7 +73,7 @@ for i in names:
     if i == [1, 2, 3, 4, 5]:
         for j in i:
             if j == 4:
-                i[counter] = "Quseyin"
+                i[counter] = "Quseyn"
             counter += 1
 
 print(*names)
